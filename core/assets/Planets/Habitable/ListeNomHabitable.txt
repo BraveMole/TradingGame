@@ -1,0 +1,3 @@
+moon_03;moon_04;p7shaded;p9shaded
+;planet_01;planet_04;planet_05;planet_06;planet_08;planet_14;planet_15;planet_16;planet_38;planet_46;
+planet15;planet16;tundra

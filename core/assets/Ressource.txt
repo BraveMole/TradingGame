@@ -1,0 +1,51 @@
+﻿Hydrogen;0;0.1;1;0;0.8;0;true;1;/
+Helium;1;0.1;4;0;0.2;0;true;1;/
+Argon;2;0.2;4;0;0.1;0;true;2;/
+Krypton;3;0.2;10;0;0.1;0;true;2;/
+Caslon;4;0.5;10;0;0.05;0;true;1;/
+Fer;5;2;2;0.4;0;0.4;true;1;/
+Or;6;1;20;0.1;0;0.1;true;2;/
+Argent;7;2;5;0.2;0;0.2;true;2;/
+Plomb;8;4;2;0.1;0;0.1;true;1;/
+Iridium;9;2;40;0.1;0;0.1;true;2;/
+Chrome;10;3;20;0.1;0;0.1;true;2;/
+Diamants;11;1;100;0.05;0;0.05;true;5;/
+Fibre de carbone;12;0.2;20;1;0;1;true;1;/
+Silice;13;1;1;0.5;0;0.5;true;0.5;/
+Polymères;14;1;2;0.5;0;0.5;true;0.5;/
+Viande;15;2;5;0;0;0.5;true;1;/
+Cereales;16;2;2;0;0;0.8;true;0.2;/
+Ivoire;17;1;20;0;0;0.1;true;5;/
+Fourrure;18;1;20;0;0;0.1;true;5;/
+Epices;19;0.5;50;0;0;0.05;true;5;/
+Encens;20;0.1;10;0;0;0.1;true;2;/
+Soie;21;0.1;30;0;0;0.05;true;5;/
+Dentelle;22;0.1;40;0;0;0.05;true;5;/
+Vin;23;0.5;10;0;0;0.1;true;1;/
+Glace;24;1;1;0.2;0;1;true;0.2;/
+Sable;25;1;1;0.4;0;0.4;true;1;/
+Uranium;26;2;10;0.1;0;0.1;true;5;/
+Bois;27;1.5;1;0;0;0.6;true;1;/
+Bijoux;28;0.1;218;0;0;0;false;/
+Habit de luxe;29;0.1;41;0;0;0;false;/
+Outils;30;1;105;0;0;0;false;/
+Machines-outil;31;10;78;0;0;0;false;/
+Lasers;32;5;114;0;0;0;false;/
+Voitures;33;10;213;0;0;0;false;/
+Verre;34;1;8;0;0;0;false;/
+Reacteurs;35;20;810;0;0;0;false;/
+Armes de poing;36;1;104;0;0;0;false;/
+Medicaments;37;0.2;78;0;0;0;false;/
+Protheses;38;1;71;0;0;0;false;/
+Ordinateurs;39;1;63;0;0;0;false;/
+Cyber-ameliorations;40;0.5;102;0;0;0;false;/
+Drogues;41;1;93;0;0;0;false;/
+Jouets;42;0.2;5;0;0;0;false;/
+Oeuvres d'art;43;1;180;0;0;0;false;/
+Meubles;44;2;5;0;0;0;false;/
+Coques de vaisseau;45;40;2670;0;0;0;false;/
+Moteurs-fusee;46;20;915;0;0;0;false;/
+Lances-missile;47;5;513;0;0;0;false;/
+Carburant;48;0.1;8;0;0;0;false;/
+Tanks;49;20;585;0;0;0;false;/
+Robots;50;5;123;0;0;0;false;

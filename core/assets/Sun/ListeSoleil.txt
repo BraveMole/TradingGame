@@ -1,0 +1,7 @@
+star_blue_giant01;star_blue_giant02;star_blue_giant03;star_blue_giant04
+;star_blue01;star_blue02;star_blue03;star_blue04;star_orange01;star_orange02;star_orange03;star_orange04
+;star_red_giant01;star_red_giant02;star_red_giant03;star_red_giant04
+;star_red01;star_red02;star_red03;star_red04
+;star_white_giant01;star_white_giant02;star_white_giant03;star_white_giant04
+;star_white01;star_white02;star_white03;star_white04
+;star_yellow01;star_yellow02;star_yellow03;star_yellow04;
